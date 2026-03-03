@@ -1,4 +1,4 @@
-# 🔴 SRE Incident Response Runbook
+# 🔴 SRE Incident Response
 ## payment-api — Latência Crítica em Produção
 **EKS-prod / Namespace: payment**
 
